@@ -1,7 +1,7 @@
 <mvc:View controllerName="demo.testDeploy.controller.App" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns="sap.m">
 	<App id="app">
 		<pages>
-			<Page id="page" title="Deploy Test">
+			<Page id="page" title="Deploy Test!">
 				<content></content>
 			</Page>
 		</pages>
